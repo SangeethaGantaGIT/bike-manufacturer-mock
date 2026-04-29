@@ -1,17 +1,15 @@
-models:
-  orders:
-    data:
-      - id: 1
-        size: Small
-        cost: 1000
-        deliveryDays: 30
+orders:
+  - id: 1
+    size: Small
+    cost: 1000
+    deliveryDays: 30
 
-      - id: 2
-        size: Medium
-        cost: 1500
-        deliveryDays: 60
+  - id: 2
+    size: Medium
+    cost: 1500
+    deliveryDays: 60
 
-      - id: 3
-        size: Large
-        cost: 2000
-        deliveryDays: 90
+  - id: 3
+    size: Large
+    cost: 2000
+    deliveryDays: 90
