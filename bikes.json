@@ -1,0 +1,32 @@
+{"data":{
+    "bikeconfigurations":[
+        {
+            "wheelbase":3000,
+            "seatHeight":400,
+            "topBarLength":600,
+            "costPrice": 500,
+            "currency": "GBP",
+            "estimatedDeliveryDays": 30,
+            "sizeCategory":"Small"
+        },
+        {
+            "wheelbase":5000,
+            "seatHeight":500,
+            "topBarLength":800,
+            "costPrice": 650,
+            "currency": "GBP",
+            "estimatedDeliveryDays": 60,
+            "sizeCategory":"Medium"
+        },
+        {
+            "wheelbase":7000,
+            "seatHeight":600,
+            "topBarLength":1000,
+            "costPrice": 900,
+            "currency": "GBP",
+            "estimatedDeliveryDays": 30,
+            "sizeCategory":"Large"
+        }
+    ]
+}
+}
