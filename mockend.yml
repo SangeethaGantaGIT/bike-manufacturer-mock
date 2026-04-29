@@ -1,6 +1,5 @@
-routes:
-  - path: /orders
-    method: GET
+models:
+  orders:
     data:
       - id: 1
         size: Small
@@ -14,6 +13,3 @@ routes:
         size: Large
         cost: 2000
         deliveryDays: 10
-    query:
-      size:
-        type: string
