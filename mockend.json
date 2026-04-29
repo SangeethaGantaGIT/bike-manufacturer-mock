@@ -1,0 +1,24 @@
+{
+  "orders": {
+    "data": [
+      {
+        "id": 1,
+        "size": "Small",
+        "cost": 1000,
+        "deliveryDays": 5
+      },
+      {
+        "id": 2,
+        "size": "Medium",
+        "cost": 1500,
+        "deliveryDays": 7
+      },
+      {
+        "id": 3,
+        "size": "Large",
+        "cost": 2000,
+        "deliveryDays": 10
+      }
+    ]
+  }
+}
