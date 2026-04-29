@@ -1,4 +1,3 @@
-id="bike-mock-config-advanced"
 routes:
   - path: /orders
     method: GET
